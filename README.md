@@ -3,7 +3,7 @@ Portfolio showcase of software solutions with Microsoft Hololens 2
 
 ![Creator Pic](https://user-images.githubusercontent.com/23661772/168881664-a73703f6-54a8-4d3b-972d-c3a3f1932c24.png)
 
-<details><summary>VISUAL SCRIPTING TOOL (CLICK TO EXPAND)</summary>
+<details><summary>VISUAL SCRIPTING TOOL 👁️ (CLICK TO EXPAND)</summary>
 <p>
     
 ![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
