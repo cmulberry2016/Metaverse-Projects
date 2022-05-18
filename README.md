@@ -44,7 +44,7 @@ How can artificial intelligence assistants be used to help users navigate throug
 
 ## **The Problem**
    
-Understanding how complex system are configured and component relationships are difficult to understand without breaking apart into individual .
+Understanding how complex system are configured are difficult to understand without breaking down to individual components.
 
 ## **The Challenge**
 
