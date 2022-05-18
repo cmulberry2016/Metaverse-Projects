@@ -78,7 +78,43 @@ How can AR HMD operating systems be used to search real-world objects in the rea
     
 ![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
     
+## **The Problem**
+   
+Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
 
+## **The Challenge**
+
+Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+
+## The Solution!
+
+System Stack Used:
+
+- Input with [X]
+- Interfacing with [Y]
+- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
+- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
+- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Hardware: Hololens 2
+
+## **The Results**
+
+Comprehension Rate: 80%
+
+## The Opportunity
+
+How can AR HMD operating systems be used to search real-world objects in the real world environment?
+
+</p>
+</details>
+
+
+<details><summary>SARS-COV-2 VISUALIZATION ASSITANT TOOL 🦠 ("CovidViz")</summary>
+<p>
+    
+![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
+
+    
 ## **The Problem**
    
 Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
