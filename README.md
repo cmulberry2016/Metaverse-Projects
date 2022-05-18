@@ -1,4 +1,4 @@
-# Mixed-Reality-Projects
+# Metaverse-Projects
 Portfolio showcase of my augmented and mixed reality solutions
 
 ![Creator Pic](https://user-images.githubusercontent.com/23661772/168881664-a73703f6-54a8-4d3b-972d-c3a3f1932c24.png)
