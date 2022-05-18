@@ -3,7 +3,7 @@ Portfolio showcase of my augmented and mixed reality solutions
 
 ![Creator Pic](https://user-images.githubusercontent.com/23661772/168881664-a73703f6-54a8-4d3b-972d-c3a3f1932c24.png)
 
-<details><summary>VISUAL SCRIPTING TOOL 👁️ (Project Reality Creator)</summary>
+<details><summary>VISUAL SCRIPTING TOOL 👁️ ("Reality Creator")</summary>
 <p>
     
 ![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
@@ -36,7 +36,7 @@ How can artificial intelligence assistants be used to help users navigate throug
 </p>
 </details>
 
-<details><summary>PRODUCT EXPLORER TOOL 🔎 (Project PCB Explorer)</summary>
+<details><summary>PRODUCT EXPLORER TOOL 🔎 ("PCB Explorer")</summary>
 <p>
     
 ![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
@@ -73,7 +73,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </details>
 
 
-<details><summary>ASSEMBLY TRAINING ASSITANT TOOL 🔧 (Project EVAssemblySim)</summary>
+<details><summary>ASSEMBLY TRAINING ASSITANT TOOL 🔧 ("EVAssemblySim")</summary>
 <p>
     
 ![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
