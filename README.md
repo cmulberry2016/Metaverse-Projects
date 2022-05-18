@@ -33,7 +33,6 @@ System Stack Used:
 
 How can artificial intelligence assistants be used to help users navigate through AR HMD tools?
 
-
 </p>
 </details>
 
@@ -45,11 +44,11 @@ How can artificial intelligence assistants be used to help users navigate throug
 
 ## **The Problem**
    
-Lorem Ipsum
+Understanding how complex system are configured and component relationships are difficult to understand without breaking apart into individual .
 
 ## **The Challenge**
 
-Lorem Ipsum 
+Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
 
 ## The Solution
 
