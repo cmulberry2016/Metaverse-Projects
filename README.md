@@ -36,7 +36,7 @@ How can artificial intelligence assistants be used to help users navigate throug
 </p>
 </details>
 
-<details><summary>PRODUCT EXPLORER TOOL (CLICK TO EXPAND)</summary>
+<details><summary>PRODUCT EXPLORER TOOL 🔎 (CLICK TO EXPAND)</summary>
 <p>
     
 ![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
