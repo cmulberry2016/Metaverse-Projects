@@ -76,7 +76,8 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 <details><summary>ASSEMBLY TRAINING ASSITANT TOOL 🔧 (Project EVAssemblySim)</summary>
 <p>
     
-[Assembly Simulation](https://user-images.githubusercontent.com/23661772/169123320-b5cf461a-bdd6-4bc7-9b11-cdd9b39081dd.gif)
+![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
+    
 
 ## **The Problem**
    
