@@ -44,7 +44,7 @@ How can artificial intelligence assistants be used to help users navigate throug
 
 ## **The Problem**
    
-Understanding how complex system are configured are difficult to understand without breaking down to individual components.
+Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
 
 ## **The Challenge**
 
@@ -54,18 +54,20 @@ Disassembling meshed prefabs from industrial design files and adding tween movem
 
 System Stack Used:
 
-- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
-- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
-- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
-- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Input with [X]
+- Interfacing with [Y]
+- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
+- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
+- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Hardware: Hololens 2
 
 ## **The Results**
 
-Lorem Ipsum
+Comprehension Rate: 80%
 
 ## The Opportunity
 
-Lorem Ipsum
+How can AR HMD operating systems be used to search real-world objects in the real world environment?
 
 </p>
 </details>
