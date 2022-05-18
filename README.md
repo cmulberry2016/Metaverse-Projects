@@ -73,7 +73,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </details>
 
 
-<details><summary>ASSEMBLY TRAINING ASSITANT TOOL 🔧 ("EVAssemblySim")</summary>
+<details><summary>ASSEMBLY TRAINING ASSISTANT TOOL 🔧 ("EVAssemblySim")</summary>
 <p>
     
 ![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
@@ -109,7 +109,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </details>
 
 
-<details><summary>SARS-COV-2 VISUALIZATION ASSITANT TOOL 🦠 ("CovidViz")</summary>
+<details><summary>SARS-COV-2 VISUALIZATION ASSISTANT TOOL 🦠 ("CovidViz")</summary>
 <p>
     
 ![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
