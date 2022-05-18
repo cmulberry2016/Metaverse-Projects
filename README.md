@@ -36,3 +36,37 @@ How can artificial intelligence assistants be used to help users navigate throug
 
 </p>
 </details>
+
+<details><summary>PRODUCT EXPLORER TOOL (CLICK TO EXPAND)</summary>
+<p>
+    
+![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
+
+
+## **The Problem**
+   
+Lorem Ipsum
+
+## **The Challenge**
+
+Lorem Ipsum 
+
+## The Solution
+
+System Stack Used:
+
+- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
+- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
+- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+
+## **The Results**
+
+Lorem Ipsum
+
+## The Opportunity
+
+Lorem Ipsum
+
+</p>
+</details>
