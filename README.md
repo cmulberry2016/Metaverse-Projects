@@ -5,17 +5,7 @@ Portfolio showcase of software solutions with Microsoft Hololens 2
 
 <details><summary>CLICK ME</summary>
 <p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
-
-
+    
 ## **The Problem**
 
 Spatial understanding of core features within AR HMD applications
@@ -40,3 +30,7 @@ System Stack Used:
 ## The Opportunity
 
 How can artificial intelligence assistants be used to help users navigate through AR HMD tools?
+
+
+</p>
+</details>
