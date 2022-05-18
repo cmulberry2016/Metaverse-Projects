@@ -7,6 +7,8 @@ Portfolio showcase of software solutions with Microsoft Hololens 2
 <p>
     
 ## **The Problem**
+    
+![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
 
 Spatial understanding of core features within AR HMD applications
 
