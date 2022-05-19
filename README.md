@@ -17,8 +17,8 @@ Current social networking applications lack the ability for in-person connection
 Create a profile matching system that connects profiles based on shared physical location within a social distance.
 
 ## The Solution
-
-Camera Based Search Engine for Location-Based Augmented Reality Networking
+    
+![Proximity Networking Demo](https://user-images.githubusercontent.com/23661772/169137488-2851c9c9-717a-4240-9406-874080a3c0db.gif)
 
 System Stack Used:
     
@@ -31,8 +31,6 @@ System Stack Used:
 ## **The Results**
     
 Profile matching in < 0.4 seconds
-    
-![Proximity Networking Demo](https://user-images.githubusercontent.com/23661772/169137488-2851c9c9-717a-4240-9406-874080a3c0db.gif)
     
 ## The Opportunity
 
@@ -55,6 +53,8 @@ Managing implicit object relationships is difficult when programming behavioral 
 Create a visual scripting engine for mixed reality application development 
 
 ## The Solution
+    
+![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
 
 System Stack Used:
 
@@ -67,8 +67,6 @@ System Stack Used:
 
 Interactions can be built and connected without the need for keyboard programming 
     
-![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
-
 ## The Opportunity
 
 Add support for grouping ("nested") behavioral interactions
@@ -90,6 +88,8 @@ Understanding how complex system relationships are configured is difficult to un
 Create a visualization engine for disassembled meshed prefabs
 
 ## The Solution
+    
+![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
 
 System Stack Used:
 
@@ -102,8 +102,6 @@ System Stack Used:
 ## **The Results**
 
 Comprehension Rate: 80%
-
-![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
 
 ## The Opportunity
 
@@ -120,13 +118,15 @@ Add support for automatic component naming through file extension formatting
 
 Rework is expensive for factory line technicians without a strong understanding of the machine composition and configuration
     
-![Factory Worker](https://user-images.githubusercontent.com/23661772/169346614-b264a464-60c9-4e05-8cfd-d59a0667f292.jpeg)
+<img width="1093" alt="Screen Shot 2022-05-19 at 11 18 26 AM" src="https://user-images.githubusercontent.com/23661772/169349102-ef09f2d4-c4a7-486a-9a26-160f022cca47.png">
 
 ## **The Challenge**
 
 Create an vechicle assembly guide that safely walks line technicians through machine assembly 
 
 ## The Solution
+
+![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
 
 System Stack Used:
 
@@ -138,10 +138,8 @@ System Stack Used:
 
 ## **The Results**
 
-Error Rate: < 10%
+Error Rate: < 5%
     
-![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
-
 ## The Opportunity
 
 Add support for vehicle maintenance troubleshooting
@@ -149,39 +147,38 @@ Add support for vehicle maintenance troubleshooting
 </p>
 </details>
 
-
 <details><summary>CELL VISUALIZATION ASSISTANT TOOL 🦠 </summary>
 <p>
     
-![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
-
-    
 ## **The Problem**
    
-Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+Understanding microscopic systems is difficult with a naked and untrained eye.
+    
+![Lab Technician](https://user-images.githubusercontent.com/23661772/169350049-809277fc-be50-4e16-833b-3359989c24ce.jpeg)
 
 ## **The Challenge**
 
-Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+Create an interactive brochure for the Sars-Cov-2 cell.
 
-## The Solution!
+## The Solution
+
+![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
 
 System Stack Used:
 
-- Input with [X]
-- Interfacing with [Y]
-- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
-- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
-- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
+- Voice Assistance with **[SAI API](https://enklu.notion.site/App-7a613b15a29840a0a882761bf5e940ab#cb070b7f690b45f69ace511078e9ee83)**
+- Learning Management with **[Score API](https://enklu.notion.site/Score-Preview-b8a4fe64c5724d0196e01ea1ebfb2ef6)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - Hardware: Hololens 2
 
 ## **The Results**
 
-Comprehension Rate: 80%
+Comprehension Rate: 95%
 
 ## The Opportunity
 
-How can AR HMD operating systems be used to search real-world objects in the real world environment?
+Add simulation of common ways COVID is contracted
 
 </p>
 </details>
