@@ -186,34 +186,36 @@ Add simulation of common ways COVID is contracted
 <details><summary>EPIPEN TRAINING ASSISTANT TOOL 💉 </summary>
 <p>
     
-![Epipen](https://user-images.githubusercontent.com/23661772/169313130-42c3e8ee-e6ac-4005-ac9e-bc3321147573.gif)
-    
 ## **The Problem**
    
-Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+Responding to emergency situations can lead untrained professionals to freeze and not respond appropriately.
+    
+![Allergic Reaction](https://user-images.githubusercontent.com/23661772/169351839-6d8adfe6-200f-42a9-9c35-fe9a318ea282.jpeg)
 
 ## **The Challenge**
 
-Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+Create a training guide that assists teachers through the epipen procedure in the case of allergic reactions from students.
 
-## The Solution!
+## The Solution
+
+![Epipen](https://user-images.githubusercontent.com/23661772/169313130-42c3e8ee-e6ac-4005-ac9e-bc3321147573.gif)
 
 System Stack Used:
 
-- Input with [X]
-- Interfacing with [Y]
-- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
-- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
-- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
+- Countdown Timer with **[Timers API](https://enklu.notion.site/Timers-612d9f808504469495cfd1a566cd3f25#7fce09cc1ab54c32952d023651caf5ea)**
+- Voice Assistance with **[SAI API](https://enklu.notion.site/App-7a613b15a29840a0a882761bf5e940ab#cb070b7f690b45f69ace511078e9ee83)**
+- Learning Management with **[Score API](https://enklu.notion.site/Score-Preview-b8a4fe64c5724d0196e01ea1ebfb2ef6)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - Hardware: Hololens 2
 
 ## **The Results**
 
-Comprehension Rate: 80%
+Comprehension Rate: 100%
 
 ## The Opportunity
 
-How can AR HMD operating systems be used to search real-world objects in the real world environment?
+Build a complete EMS response guide by integrating the deployed seizure module
 
 </p>
 </details>
