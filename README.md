@@ -80,12 +80,11 @@ Add support for grouping ("nested") behavioral interactions
 <details><summary>PRODUCT VISUALIZATION TOOL 🔎 ("PCB Explorer")</summary>
 <p>
     
-![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
-
-
 ## **The Problem**
    
-Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+Understanding how complex system relationships are configured is difficult to understand without breaking down to individual components.
+    
+![Complex System](https://user-images.githubusercontent.com/23661772/169335713-84065c82-c07b-4c50-8959-47cc2bfad6ce.jpeg)
 
 ## **The Challenge**
 
@@ -105,6 +104,8 @@ System Stack Used:
 ## **The Results**
 
 Comprehension Rate: 80%
+
+![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
 
 ## The Opportunity
 
