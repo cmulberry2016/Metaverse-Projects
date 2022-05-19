@@ -12,7 +12,6 @@ Current social networking applications lack the ability for in-person connection
     
 <img width="1728" alt="Isolation" src="https://user-images.githubusercontent.com/23661772/169326836-fc7d67cf-92e0-4dcf-a261-b358286a66c8.png">
 
-
 ## **The Challenge**
 
 Create a profile matching system that connects profiles based on shared physical location within a social distance.
@@ -121,32 +120,33 @@ Add support for automatic component naming through file extension formatting
     
 ## **The Problem**
 
-Rework is expensive in ILT without a strong understanding of the machine composition and configuration
+Rework is expensive for factory line technicians without a strong understanding of the machine composition and configuration
+    
+![Factory Worker](https://user-images.githubusercontent.com/23661772/169346614-b264a464-60c9-4e05-8cfd-d59a0667f292.jpeg)
 
 ## **The Challenge**
 
-Create an assembly guide that safely walks line technicians through machine assembly 
+Create an vechicle assembly guide that safely walks line technicians through machine assembly 
 
 ## The Solution
 
 System Stack Used:
 
-- Input with [X]
-- Interfacing with [Y]
-- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
-- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
-- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
+- Voice Assistance with **[SAI API](https://enklu.notion.site/App-7a613b15a29840a0a882761bf5e940ab#cb070b7f690b45f69ace511078e9ee83)**
+- Learning Management with **[Score API](https://enklu.notion.site/Score-Preview-b8a4fe64c5724d0196e01ea1ebfb2ef6)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - Hardware: Hololens 2
 
 ## **The Results**
 
-Comprehension Rate: 80%
+Error Rate: < 10%
     
 ![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
 
 ## The Opportunity
 
-How can AR HMD operating systems be used to search real-world objects in the real world environment?
+Add support for vehicle maintenance troubleshooting
 
 </p>
 </details>
