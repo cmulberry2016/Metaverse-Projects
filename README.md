@@ -32,10 +32,10 @@ System Stack Used:
 
 ## **The Results**
     
+Profile matching in < 0.4 seconds
+    
 ![Proximity Networking Demo](https://user-images.githubusercontent.com/23661772/169137488-2851c9c9-717a-4240-9406-874080a3c0db.gif)
     
-Profile matching in < 0.4 seconds
-
 ## The Opportunity
 
 Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / Snap Lenses)
