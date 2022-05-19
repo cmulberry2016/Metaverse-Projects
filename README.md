@@ -6,9 +6,6 @@ Portfolio showcase of my augmented and mixed reality solutions
 <details><summary>PROXIMITY NETWORKING TOOL 🤝 ("Spatial Search")</summary>
 <p>
     
-![Proximity Networking Demo](https://user-images.githubusercontent.com/23661772/169137488-2851c9c9-717a-4240-9406-874080a3c0db.gif)
-
-
 ## **The Problem**
    
 Current social networking applications lack the ability for in-person connection.
@@ -34,7 +31,9 @@ System Stack Used:
 - Scripted in **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 
 ## **The Results**
-
+    
+![Proximity Networking Demo](https://user-images.githubusercontent.com/23661772/169137488-2851c9c9-717a-4240-9406-874080a3c0db.gif)
+    
 Profile matching in < 0.4 seconds
 
 ## The Opportunity
@@ -46,8 +45,6 @@ Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / 
 
 <details><summary>VISUAL SCRIPTING TOOL 👁️ ("Reality Creator")</summary>
 <p>
-    
-![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
 
 ## **The Problem**
    
@@ -70,6 +67,8 @@ System Stack Used:
 ## **The Results**
 
 Interactions can be built and connected without the need for keyboard programming 
+    
+![Editor Design](https://user-images.githubusercontent.com/23661772/169062686-04958745-8e30-4464-b7e6-d115f16be0b4.gif)
 
 ## The Opportunity
 
