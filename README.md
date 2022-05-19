@@ -226,35 +226,35 @@ Build a complete EMS response guide by integrating the deployed seizure module
 <details><summary>BRAIN SCAN ASSISTANT TOOL 🧠 </summary>
 <p>
     
-![Brain Scan Demo](https://user-images.githubusercontent.com/23661772/169314421-77c9fa87-4894-400e-a918-11a16cd8cfd3.gif)
+![MRI Scanning](https://user-images.githubusercontent.com/23661772/169353176-1030f676-c683-42fa-917e-6a49da07fabf.jpeg)
 
-    
 ## **The Problem**
    
-Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+Diagnosing brain conditions is expensive and time consuming without live feedback.
 
 ## **The Challenge**
 
-Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+Create a brain scan visualizer that displays patient data alongside the relevant damaged lobe section.
 
-## The Solution!
+## The Solution
+    
+![Brain Scan Demo](https://user-images.githubusercontent.com/23661772/169314421-77c9fa87-4894-400e-a918-11a16cd8cfd3.gif)
 
 System Stack Used:
 
-- Input with [X]
-- Interfacing with [Y]
-- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
-- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
-- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
-- Hardware: Hololens 2
+- Prefab Animation with **[Tween API](https://enklu.notion.site/Tween-cc9d594d6c2548e8a16870902e6e4dc4)**
+- Interfacing with **[Touch API](https://enklu.notion.site/Touch-d73ef1eb42c84ac284b99d7d68b912d4)** and **[Timers API](https://enklu.notion.site/Timers-612d9f808504469495cfd1a566cd3f25)**
+- Learning Management with **[Score API](https://enklu.notion.site/Score-Preview-b8a4fe64c5724d0196e01ea1ebfb2ef6)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Hardware Supported: Hololens 2
 
 ## **The Results**
 
-Comprehension Rate: 80%
+Diagnosis Accuracy: 98%
 
 ## The Opportunity
 
-How can AR HMD operating systems be used to search real-world objects in the real world environment?
+Add support for real-time networking + database and diagnosis guide
 
 </p>
 </details>
