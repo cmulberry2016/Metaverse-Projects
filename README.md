@@ -19,8 +19,6 @@ Create a profile matching system that connects profiles based on shared physical
 ## The Solution
 
 Camera Based Search Engine for Location-Based Augmented Reality Networking
-    
-<img width="2744" alt="Vibed Proximity Matching System" src="https://user-images.githubusercontent.com/23661772/169327830-44e2bc02-7e09-4cd6-9fac-dccc51f370ab.png">
 
 System Stack Used:
     
