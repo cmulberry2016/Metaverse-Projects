@@ -178,3 +178,38 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 
 </p>
 </details>
+
+<details><summary>EPIPEN TRAINING ASSISTANT TOOL 💉 ("EpipenSim")</summary>
+<p>
+    
+![Epipen](https://user-images.githubusercontent.com/23661772/169313130-42c3e8ee-e6ac-4005-ac9e-bc3321147573.gif)
+    
+## **The Problem**
+   
+Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+
+## **The Challenge**
+
+Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+
+## The Solution!
+
+System Stack Used:
+
+- Input with [X]
+- Interfacing with [Y]
+- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
+- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
+- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
+- Hardware: Hololens 2
+
+## **The Results**
+
+Comprehension Rate: 80%
+
+## The Opportunity
+
+How can AR HMD operating systems be used to search real-world objects in the real world environment?
+
+</p>
+</details>
