@@ -70,7 +70,7 @@ How can artificial intelligence assistants be used to help users navigate throug
 </p>
 </details>
 
-<details><summary>PRODUCT EXPLORER TOOL 🔎 ("PCB Explorer")</summary>
+<details><summary>PRODUCT VISUALIZATION TOOL 🔎 ("PCB Explorer")</summary>
 <p>
     
 ![PCB Explorer](https://user-images.githubusercontent.com/23661772/169063472-36a70e46-2d60-43ef-9e99-2a0823003a00.gif)
@@ -143,7 +143,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </details>
 
 
-<details><summary>CELL VISUALIZATION ASSISTANT TOOL 🦠 ("Sars-Cov-2 Visualizer")</summary>
+<details><summary>CELL VISUALIZATION ASSISTANT TOOL 🦠 ("Sars-Cov-2 Explorer")</summary>
 <p>
     
 ![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
