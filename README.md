@@ -27,8 +27,7 @@ Camera Based Search Engine for Location-Based Augmented Reality Networking
 <img width="2744" alt="Vibed Proximity Matching System" src="https://user-images.githubusercontent.com/23661772/169327830-44e2bc02-7e09-4cd6-9fac-dccc51f370ab.png">
 
 System Stack Used:
-
-- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
+    
 - Networking with **[Lightship Multiplayer API](https://lightship.dev/docs/ardk/multiplayer/index.html#multiplayer)**
 - Interfacing through **[UnityUI](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)**
 - Matching with **[Firebase Query](https://firebase.google.com/docs/reference/unity/class/firebase/database/query)**
