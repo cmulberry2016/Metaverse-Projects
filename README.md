@@ -72,7 +72,7 @@ Interactions can be built and connected without the need for keyboard programmin
 
 ## The Opportunity
 
-Add support for grouping ("nested") for behavioral interactions
+Add support for grouping ("nested") behavioral interactions
 
 </p>
 </details>
