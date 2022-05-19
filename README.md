@@ -51,28 +51,29 @@ Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / 
 
 ## **The Problem**
    
-Spatial understanding of core features within AR HMD applications
+Managing implicit object relations is difficult when programming behavioral interactions
+    
+![Unity Editor](https://user-images.githubusercontent.com/23661772/169331758-0e69ede4-6b78-4ac1-af11-d4b228ccb61a.png)
 
 ## **The Challenge**
 
-How to track knowledge retention within a simulated environment 
+Create a visual scripting engine for mixed reality application development 
 
 ## The Solution
 
 System Stack Used:
 
-- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
+- Component Connections with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
 - Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
-- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 ## **The Results**
 
-- Sequence Completion Rate > 70%
+Interactions can be built and connected without the need for keyboard programming 
 
 ## The Opportunity
 
-How can artificial intelligence assistants be used to help users navigate through AR HMD tools?
+Add support for grouping ("nested") for behavioral interactions
 
 </p>
 </details>
