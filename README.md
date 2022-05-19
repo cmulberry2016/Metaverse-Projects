@@ -110,8 +110,8 @@ Comprehension Rate: 80%
 
 ## The Opportunity
 
-How can AR HMD operating systems be used to search real-world objects in the real world environment?
-
+Add support for automatic component naming through file extension formatting 
+    
 </p>
 </details>
 
@@ -119,17 +119,15 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 <details><summary>ASSEMBLY TRAINING ASSISTANT TOOL 🔧 ("EVAssemblySim")</summary>
 <p>
     
-![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
-    
 ## **The Problem**
-   
-Understanding how complex implicit system relationships are configured are difficult to understand without breaking down to individual components.
+
+Rework is expensive in ILT without a strong understanding of the machine composition and configuration
 
 ## **The Challenge**
 
-Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+Create an assembly guide that safely walks line technicians through machine assembly 
 
-## The Solution!
+## The Solution
 
 System Stack Used:
 
@@ -143,6 +141,8 @@ System Stack Used:
 ## **The Results**
 
 Comprehension Rate: 80%
+    
+![Assembly Simulation](https://user-images.githubusercontent.com/23661772/169124090-cfec29b5-a17b-4043-a497-7148b8a18684.gif)
 
 ## The Opportunity
 
