@@ -3,8 +3,6 @@ Portfolio showcase of my augmented and mixed reality solutions
 
 ![Creator Pic](https://user-images.githubusercontent.com/23661772/168881664-a73703f6-54a8-4d3b-972d-c3a3f1932c24.png)
 
-![Upside Down Pyramid of Design](https://user-images.githubusercontent.com/23661772/169345958-9b62ebfe-002c-41f6-9e63-e11e49a65c5b.jpeg)
-
 <details><summary>PROXIMITY NETWORKING TOOL 🤝 ("Spatial Search")</summary>
 <p>
     
