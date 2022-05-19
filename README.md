@@ -3,7 +3,7 @@ Portfolio showcase of my augmented and mixed reality solutions
 
 ![Creator Pic](https://user-images.githubusercontent.com/23661772/168881664-a73703f6-54a8-4d3b-972d-c3a3f1932c24.png)
 
-<details><summary>PROXIMITY NETWORKING TOOL 🤝 ("Spatial Search")</summary>
+<details><summary>PROXIMITY NETWORKING TOOL 🤝 </summary>
 <p>
     
 ## **The Problem**
@@ -43,7 +43,7 @@ Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / 
 </p>
 </details>
 
-<details><summary>VISUAL SCRIPTING TOOL 👁️ ("Reality Creator")</summary>
+<details><summary>VISUAL SCRIPTING TOOL 👁️ </summary>
 <p>
 
 ## **The Problem**
@@ -78,7 +78,7 @@ Add support for grouping ("nested") behavioral interactions
 </p>
 </details>
 
-<details><summary>PRODUCT VISUALIZATION TOOL 🔎 ("PCB Explorer")</summary>
+<details><summary>PRODUCT VISUALIZATION TOOL 🔎 </summary>
 <p>
     
 ## **The Problem**
@@ -115,7 +115,7 @@ Add support for automatic component naming through file extension formatting
 </details>
 
 
-<details><summary>ASSEMBLY TRAINING ASSISTANT TOOL 🔧 ("EVAssemblySim")</summary>
+<details><summary>ASSEMBLY TRAINING ASSISTANT TOOL 🔧 </summary>
 <p>
     
 ## **The Problem**
@@ -152,7 +152,7 @@ Add support for vehicle maintenance troubleshooting
 </details>
 
 
-<details><summary>CELL VISUALIZATION ASSISTANT TOOL 🦠 ("Sars-Cov-2 Explorer")</summary>
+<details><summary>CELL VISUALIZATION ASSISTANT TOOL 🦠 </summary>
 <p>
     
 ![NIH Demo](https://user-images.githubusercontent.com/23661772/169129398-445aefc2-115e-4122-9601-f4d58433fb56.gif)
@@ -188,7 +188,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </p>
 </details>
 
-<details><summary>EPIPEN TRAINING ASSISTANT TOOL 💉 ("EpipenSim")</summary>
+<details><summary>EPIPEN TRAINING ASSISTANT TOOL 💉 </summary>
 <p>
     
 ![Epipen](https://user-images.githubusercontent.com/23661772/169313130-42c3e8ee-e6ac-4005-ac9e-bc3321147573.gif)
@@ -226,7 +226,7 @@ How can AR HMD operating systems be used to search real-world objects in the rea
 </p>
 </details>
 
-<details><summary>BRAIN SCAN ASSISTANT TOOL 🧠 ("MRI Visualizer")</summary>
+<details><summary>BRAIN SCAN ASSISTANT TOOL 🧠 </summary>
 <p>
     
 ![Brain Scan Demo](https://user-images.githubusercontent.com/23661772/169314421-77c9fa87-4894-400e-a918-11a16cd8cfd3.gif)
