@@ -29,6 +29,7 @@ System Stack Used:
 - Interfacing through **[UnityUI](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)**
 - Matching with **[Firebase Query](https://firebase.google.com/docs/reference/unity/class/firebase/database/query)**
 - Scripted in **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
+- Hardware Supported: iPhone + iPad
 
 ## **The Results**
     
@@ -63,6 +64,7 @@ System Stack Used:
 - Component Connections with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
 - Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Hardware Supported: Hololens 2
 
 ## **The Results**
 
@@ -88,18 +90,17 @@ Understanding how complex system relationships are configured is difficult to un
 
 ## **The Challenge**
 
-Disassembling meshed prefabs from industrial design files and adding tween movement animations + descriptions interface windows.
+Create a visualization engine for disassembled meshed prefabs
 
 ## The Solution
 
 System Stack Used:
 
-- Input with [X]
-- Interfacing with [Y]
-- Inferencing through **[CoreML Model](https://developer.apple.com/machine-learning/models/)**
-- Training with **[Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)**
-- Programming Languages: **[C++](https://www.cplusplus.com/reference/)**,  **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Swift](https://developer.apple.com/swift/)**
-- Hardware: Hololens 2
+- Prefab Animation with **[Tween API](https://enklu.notion.site/Tween-cc9d594d6c2548e8a16870902e6e4dc4)**
+- Interfacing with **[Touch API](https://enklu.notion.site/Touch-d73ef1eb42c84ac284b99d7d68b912d4)** and **[Timers API](https://enklu.notion.site/Timers-612d9f808504469495cfd1a566cd3f25)**
+- Learning Management with **[Score API](https://enklu.notion.site/Score-Preview-b8a4fe64c5724d0196e01ea1ebfb2ef6)**
+- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Hardware Supported: Hololens 2
 
 ## **The Results**
 
