@@ -21,23 +21,26 @@ Current social networking applications lack the ability for in-person connection
 Create a profile matching system that connects profiles based on shared physical location within a social distance.
 
 ## The Solution
+
+Camera Based Search Engine for Location-Based Augmented Reality Networking
     
 <img width="2744" alt="Vibed Proximity Matching System" src="https://user-images.githubusercontent.com/23661772/169327830-44e2bc02-7e09-4cd6-9fac-dccc51f370ab.png">
 
 System Stack Used:
 
 - Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
-- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
-- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
-- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Networking with **[Lightship Multiplayer API](https://lightship.dev/docs/ardk/multiplayer/index.html#multiplayer)**
+- Interfacing through **[UnityUI](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)**
+- Matching with **[Firebase Query](https://docs.enklu.com/docs/API/App#sai-object](https://firebase.google.com/docs/reference/unity/class/firebase/database/query)**
+- Scripted in **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 
 ## **The Results**
 
-- Sequence Completion Rate > 70%
+Profile matching in < 0.4 seconds
 
 ## The Opportunity
 
-How can artificial intelligence assistants be used to help users navigate through AR HMD tools?
+Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / Snap Lenses)
 
 </p>
 </details>
