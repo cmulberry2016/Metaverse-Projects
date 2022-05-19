@@ -48,7 +48,7 @@ Add support for consumer Mixed Reality Glasses (Nreal Light / Lightship Glass / 
 
 ## **The Problem**
    
-Managing implicit object relations is difficult when programming behavioral interactions
+Managing implicit object relationships is difficult when programming behavioral interactions
     
 ![Unity Editor](https://user-images.githubusercontent.com/23661772/169331758-0e69ede4-6b78-4ac1-af11-d4b228ccb61a.png)
 
