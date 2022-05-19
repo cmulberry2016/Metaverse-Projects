@@ -61,7 +61,7 @@ Create a visual scripting engine for mixed reality application development
 System Stack Used:
 
 - Component Connections with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
-- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://docs.enklu.com/docs/API/App#sai-object](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
+- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Gaze API](https://enklu.notion.site/Gaze-Preview-f30d65b03da24c06938d51a83a25585f)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 ## **The Results**
