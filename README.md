@@ -11,13 +11,18 @@ Portfolio showcase of my augmented and mixed reality solutions
 
 ## **The Problem**
    
-Spatial understanding of core features within AR HMD applications
+Current social networking applications lack the ability for in-person connection.
+    
+<img width="1728" alt="Isolation" src="https://user-images.githubusercontent.com/23661772/169326836-fc7d67cf-92e0-4dcf-a261-b358286a66c8.png">
+
 
 ## **The Challenge**
 
-How to track knowledge retention within a simulated environment 
+Create a profile matching system that connects profiles based on shared physical location within a social distance.
 
 ## The Solution
+    
+<img width="2744" alt="Vibed Proximity Matching System" src="https://user-images.githubusercontent.com/23661772/169327830-44e2bc02-7e09-4cd6-9fac-dccc51f370ab.png">
 
 System Stack Used:
 
