@@ -31,8 +31,8 @@ System Stack Used:
 - Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
 - Networking with **[Lightship Multiplayer API](https://lightship.dev/docs/ardk/multiplayer/index.html#multiplayer)**
 - Interfacing through **[UnityUI](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)**
-- Matching with **[Firebase Query](https://docs.enklu.com/docs/API/App#sai-object](https://firebase.google.com/docs/reference/unity/class/firebase/database/query)**
-- Scripted in **[C#](https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://docs.microsoft.com/en-us/dotnet/csharp/)**
+- Matching with **[Firebase Query](https://firebase.google.com/docs/reference/unity/class/firebase/database/query)**
+- Scripted in **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 
 ## **The Results**
 
